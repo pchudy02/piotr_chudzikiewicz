@@ -1,0 +1,73 @@
+body    {font-family: "Calibri";}
+#Strona_gl  {background: #FFFFFF
+                url(../img/PL-01_tlo.jpg)
+                no-repeat
+                fixed
+                center;}
+#T-90   {background: #FFFFFF
+            url(../img/T-90_tlo.jpg)
+            no-repeat
+            fixed
+            center;}
+#Merkawa    {background: #FFFFFF
+                url(../img/Merkawa_tlo.jpg)
+                no-repeat
+                fixed
+                center;}
+#Leopard_2  {background: #FFFFFF
+                url(../img/Leopard_2_tlo.jpg)
+                no-repeat
+                fixed
+                center;}
+#M1_Abrams  {background: #FFFFFF
+                url(../img/M1_Abrams_tlo.png)
+                no-repeat
+                fixed
+                center;}
+#Challenger_2   {background: #FFFFFF
+                    url(../img/Challenger_2_tlo.jpg)
+                    no-repeat
+                    fixed
+                    center;}
+#Leclerc   {background: #FFFFFF
+                    url(../img/Leclerc_tlo.jpg)
+                    no-repeat
+                    fixed
+                    center;}
+#K2_Black_Panther   {background: #FFFFFF
+                    url(../img/K2_Black_Panther_tlo.jpg)
+                    no-repeat
+                    fixed
+                    center;}
+#logo   {text-align: center;
+            font-size: 2cm;
+            font-style: italic;}
+.menu   {width: 25%;
+            font-size: large;
+            text-align: center;
+            border: 1px solid #000000;
+            border-radius: 10px}
+#menu1  {
+            float: left; 
+            }
+#menu2  {
+            float: right;}
+#text   {width: 49%;
+            text-align: center;
+            font-size: medium;
+            float: left;}
+img     {opacity: 75%;}
+#stopka {width: 100%;
+            float:right;
+            text-align: right;}
+#parametry  {width: 100%;
+                border-collapse: collapse;
+                background-color: white;}
+#parametry td {border: 2px solid rgb(0, 163, 0);}
+#lightgallery   {width: 100%;
+                    float: left;
+                    text-align: center;}    
+.foto       {width: 100%;}
+.gall       {width: 25%;
+                height: 25%;}
+            
