@@ -47,11 +47,9 @@ body    {font-family: "Calibri";}
             text-align: center;
             border: 1px solid #000000;
             border-radius: 10px}
-#menu1  {
-            float: left; 
-            }
-#menu2  {
-            float: right;}
+#menu1  {float: left;}
+#menu2  {float: right;}
+#ankieta{float: right;}
 #text   {width: 49%;
             text-align: center;
             font-size: medium;
@@ -77,3 +75,4 @@ ol          {list-style: upper-roman
 ul          {list-style: circle
                 inside
                 none;}
+input       {width: 90%;}
