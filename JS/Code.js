@@ -4,7 +4,8 @@ ankieta.onclick = function()
 {
     if(x==0)
     {
-        var wyraz = prompt("Tutaj wpisz swoją opinię...");
+        var tanks = confirm("Czy interesujesz się czołgami?");
+        var opinia = prompt("Tutaj wpisz swoją opinię na temat strony...");
         var sending = confirm("Czy napewno chcesz przesłać nam swoją ankietę?");
         if(sending == true)
         {
