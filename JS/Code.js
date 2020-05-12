@@ -16,4 +16,8 @@ ankieta.onclick = function()
             var nsended = alert("Czemu nie chcesz przesłać nam swojej ankiety?!");
         }
     }
+    else
+    {
+        var sended2 = alert("Wysłałeś nam już ankietę :D");
+    }
 }
